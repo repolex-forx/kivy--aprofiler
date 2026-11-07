@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/kivy/aprofiler/commit/4edbd155031ecf9113ce1d91c9cdde8ea65a0c3e",
       "git:hexsha": "4edbd155031ecf9113ce1d91c9cdde8ea65a0c3e",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T12:32:58.900749+00:00"
     }
   ]
 }
