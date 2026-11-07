@@ -1,0 +1,11 @@
+{
+  "org": "kivy",
+  "repo": "aprofiler",
+  "versions": [
+    {
+      "commit": "4edbd155031ecf9113ce1d91c9cdde8ea65a0c3e",
+      "tag": "",
+      "parsed_at": "2026-11-07T12:32:58.901221+00:00"
+    }
+  ]
+}
